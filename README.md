@@ -82,9 +82,9 @@ const MahmoudShahin = {
 </p>
 
 <a href="https://github.com/MahmoudShahin/github-readme-stats">
-    <img align="left"  alt="a7medAlqal3awyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MahmoudShahin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
-    <img align="right" alt="a7medAlqal3awyi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudShahin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img align="left"  alt="mahmoudshahin1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudshahin1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mahmoudshahin1/github-readme-stats">
+    <img align="right" alt="mahmoudshahin1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshahin1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 
